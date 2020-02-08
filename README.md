@@ -1,1 +1,1 @@
-[My CV](https://github.com/YuriySga/rsschool-cv/cv)
+[My CV](https://yuriysga.github.io/rsschool-cv/cv)
