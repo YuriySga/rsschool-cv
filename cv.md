@@ -1,20 +1,20 @@
-#Yuriy Sga#
+# Yuriy Sga #
 Frontend Developer
 
-##Contact Info##
-  *email: ess1928@yandex.ru
+## Contact Info ##
+* email: ess1928@yandex.ru
 
-##Objective##
-  *I would like study frontend developer skills.
+## Objective ##
+* I would like study frontend developer skills.
 
-##Skills##
-  *HTML.
-  *CSS.
-  *JS.
+## Skills ##
+*HTML.
+*CSS.
+*JS.
 
-##Experience##
-  *I have no experience in work of frontend developer.
+## Experience ##
+*I have no experience in work of frontend developer.
 
-##Education##
-  *I'm studying in RS-School.
+## Education ##
+*I'm studying in RS-School.
 
