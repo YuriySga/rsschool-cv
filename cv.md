@@ -8,13 +8,13 @@ Frontend Developer
 * I would like study frontend developer skills.
 
 ## Skills ##
-*HTML.
-*CSS.
-*JS.
+* HTML.
+* CSS.
+* JS.
 
 ## Experience ##
-*I have no experience in work of frontend developer.
+* I have no experience in work of frontend developer.
 
 ## Education ##
-*I'm studying in RS-School.
+* I'm studying in RS-School.
 
